@@ -94,7 +94,7 @@ const CalculatorSection = () => {
           <p className='text-right pr-3 pt-7 text-xl text-gray-200'>{inputValue}</p>
         </div>
 
-        {/* 3 for buttons e.t.c  */}
+        {/* 3 for butosn  */}
 
         <div>
           <div class="buttons-section flex">
